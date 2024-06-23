@@ -1,0 +1,13 @@
+{
+  "name": "javascript_comp_c",
+  "version": "1.0.0",
+  "description": "js complete repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
